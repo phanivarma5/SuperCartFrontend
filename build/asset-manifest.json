@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SuperCartFrontend/static/css/main.ba3c3f74.css",
+    "main.js": "/SuperCartFrontend/static/js/main.fe612030.js",
+    "static/js/787.d5fa4d18.chunk.js": "/SuperCartFrontend/static/js/787.d5fa4d18.chunk.js",
+    "index.html": "/SuperCartFrontend/index.html",
+    "main.ba3c3f74.css.map": "/SuperCartFrontend/static/css/main.ba3c3f74.css.map",
+    "main.fe612030.js.map": "/SuperCartFrontend/static/js/main.fe612030.js.map",
+    "787.d5fa4d18.chunk.js.map": "/SuperCartFrontend/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba3c3f74.css",
+    "static/js/main.fe612030.js"
+  ]
+}
