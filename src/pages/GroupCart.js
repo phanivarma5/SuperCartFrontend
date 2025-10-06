@@ -4,6 +4,7 @@ import "./GroupCart.css";
 import { useNavigate } from "react-router-dom";
 
 export default function GroupCart() {
+  const navigate = useNavigate();
   const [carts, setCarts] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
@@ -163,8 +164,10 @@ export default function GroupCart() {
           <div className="gc-section">
             <div className="hello">
             <h3 className="">🛒 Cart Items</h3>
-            <button className="gc-share-btn" onClick={()=>{window.location.href='/'}}>
-              Add Items
+            <button className="gc-share-btn">
+              <NavLink to="/" className="nav-link ">
+                  Add Items
+              </NavLink>
             </button>
             </div>
             {items.length === 0 ? (
