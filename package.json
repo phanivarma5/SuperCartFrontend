@@ -1,5 +1,5 @@
 {
-  "homepage": "https://phanivarma5.github.io/",
+  "homepage": "https://phanivarma5.github.io/SuperCartFrontend",
   "name": "client",
   "proxy": "https://superkartbackend.onrender.com",
   "version": "0.1.0",
