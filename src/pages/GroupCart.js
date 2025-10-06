@@ -165,7 +165,7 @@ export default function GroupCart() {
             <div className="hello">
             <h3 className="">🛒 Cart Items</h3>
             <button className="gc-share-btn">
-              <NavLink to="/" className="nav-link ">
+              <NavLink to="/">
                   Add Items
               </NavLink>
             </button>
